@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Artikel 1",
+        "tags": [
+            "tag1",
+            "tag2"
+        ],
+        "date": "2022-01-01",
+        "isNew": true
+    },
+    {
+        "title": "Artikel 2",
+        "tags": [
+            "tag3",
+            "tag4"
+        ],
+        "date": "2022-01-01",
+        "isNew": false
+    },
+    {
+        "title": "Artikel 3",
+        "tags": [
+            "tag5",
+            "tag6"
+        ],
+        "date": "2022-01-01",
+        "isNew": false
+    }
+]
